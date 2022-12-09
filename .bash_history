@@ -23,3 +23,6 @@ git commit -m "lab resources added"
 git add .
 git commit -m "lab resources added"
 git push
+git add .
+git commit -m "socket partial"
+git push
