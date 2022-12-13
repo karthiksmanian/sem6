@@ -54,17 +54,28 @@ class Car{
     }
 }
 
+class Person1 {
+    Car c;
+
+    public Person1(Car c) {
+        this.c = c;
+    }
+}
 
 public class CompositionAndAggregation {
     public static void main(String[] args) {
-
+        Car c1 = new Car(500,4,"white","buggati");
         {
-            Car c1 = new Car(1000, 4, "black", "ambassador");
-            c1.carDetails();
+            Car c2 = new Car(1000, 4, "black", "ambassador");
+            c2.carDetails();
         }
         //cant be accesses here
         //System.out.println(c1.p.color);
 
-
+        //agg
+        {
+            Person1 p = new Person1(c1);
+        }
+        System.out.println(c1.model);
     }
 }

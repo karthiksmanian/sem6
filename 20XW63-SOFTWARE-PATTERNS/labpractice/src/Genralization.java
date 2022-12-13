@@ -14,7 +14,7 @@ class Person{
     }
 }
 
-class Student extends Person{
+class Student extends Person1 {
     int std;
     String school;
 
