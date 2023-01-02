@@ -29,3 +29,22 @@ git push
 git add .
 git commit -m "."
 git push
+git add .
+git commit -m "13dec"
+git push
+git push
+git push
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+a
+s
+gx
+gvv
+gcc
+LS
+ls
+lslsl\sld
+git clear
+clear
+cearckearclearclearclearc
+clear
+git push

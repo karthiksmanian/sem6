@@ -4,26 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f09b82e3-413e-4e87-9daf-145a6eead4aa" name="Changes" comment="" />
+    <list default="true" id="1088df0b-85af-4760-a163-a8b2da04a61d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IfZ0Ui34pS64aXZcZTNNrRRv9g" />
+  <component name="ProjectId" id="2IzS52N3Juqv9axJeTjIXlDdGj4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,31 +25,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "Z:/20XW63-SOFTWARE-PATTERNS/ws1/SingleTon"
+    "last_opened_file_path": "Z:/20XW63-SOFTWARE-PATTERNS/ws1/SingleTon",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="CompositionAndAggregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompositionAndAggregation" />
-      <module name="labpractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CompositionAndAggregation" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f09b82e3-413e-4e87-9daf-145a6eead4aa" name="Changes" comment="" />
-      <created>1670574387147</created>
+      <changelist id="1088df0b-85af-4760-a163-a8b2da04a61d" name="Changes" comment="" />
+      <created>1671182752941</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670574387147</updated>
+      <updated>1671182752941</updated>
     </task>
     <servers />
   </component>
