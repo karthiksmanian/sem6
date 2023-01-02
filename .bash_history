@@ -48,3 +48,8 @@ clear
 cearckearclearclearclearc
 clear
 git push
+git status
+git pull
+git add .
+git commit -m "lab changes"
+git push
