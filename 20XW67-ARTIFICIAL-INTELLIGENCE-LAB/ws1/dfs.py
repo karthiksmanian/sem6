@@ -5,26 +5,24 @@ Created on Mon Dec 26 10:49:47 2022
 @author: 20pw16
 """
 
-def DFS(g):
-    
-    stack = []
-    stack.append("a")
-    dfs = []
-    dfs.append("a")
-    visited = []
-    
-    while len(stack):
-        pass
-        
+graph = {
+  '5' : ['3','7'],
+  '3' : ['2', '4'],
+  '7' : ['8'],
+  '2' : [],
+  '4' : ['8'],
+  '8' : []
+}
 
+visited = set() # Set to keep track of visited nodes of graph.
 
-g = {"a":{"b","c","d"},
-     "b":{"a","f","e"},
-     "c":{"a"},
-     "d":{"a","g","h"},
-     "e":{"b","f"},
-     "f":{"b","i"},
-     "g":{"d","i"},
-     "h":{"d","i"},
-     "i":{"e","f","g","h"}
-     }
+def dfs(visited, graph, node):  #function for dfs 
+    if node not in visited:
+        print (node + " ",end="")
+        visited.add(node)
+        for neighbour in graph[node]:
+            dfs(visited, graph, neighbour)
+
+# Driver Code
+print("Following is the Depth-First Search")
+dfs(visited, graph, '5')

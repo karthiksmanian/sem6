@@ -53,3 +53,7 @@ git pull
 git add .
 git commit -m "lab changes"
 git push
+git commit -m "complete till4 pcd ws1"
+git add .
+git commit -m "complete till4 pcd ws1"
+git push
