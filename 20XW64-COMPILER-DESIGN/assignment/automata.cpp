@@ -3,6 +3,10 @@
 #include<ctype.h>
 using namespace std;
 // keywords : int,float,do,while,if,else,char,enum,struct,string
+// identifier
+// constants
+// operators : +,-,*,/,<,<=,>,>=,=,==
+
 int fail(int state){
     if(state>=0 && state <=38){
         return 40;
