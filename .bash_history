@@ -60,3 +60,9 @@ git push
 git add .
 git commit -m "SP_4 complete"
 git push
+ls
+git add .
+git commit -m "sp3 2q."
+git push
+ls
+git pull

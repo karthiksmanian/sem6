@@ -40,6 +40,7 @@ g.addEdge(1, 3)
 g.addEdge(1, 4)
 g.addEdge(2, 5)
 g.addEdge(2, 6)
+g.addEdge(3, 5)
 
 target = 6; maxDepth = 3; src = 0
 

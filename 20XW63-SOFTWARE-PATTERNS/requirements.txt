@@ -1,0 +1,12 @@
+Project Title:
+
+
+Architectural patterns used for design pattern quality metrics screenshots.
+
+Language used for development. 
+
+Refactoring (include code snippets for 5 code smells identified and refactored).
+
+Quality metrics after refactoring.
+
+Conclusion.
