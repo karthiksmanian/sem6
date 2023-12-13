@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/20XW68-DISTRIBUTED-ENTERPRISES-COMPUTING-LAB.iml" filepath="$PROJECT_DIR$/.idea/20XW68-DISTRIBUTED-ENTERPRISES-COMPUTING-LAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ws1/ws1.iml" filepath="$PROJECT_DIR$/ws1/ws1.iml" />
+    </modules>
+  </component>
+</project>
